@@ -1,8 +1,8 @@
-# ⚡ Electricity Billing System
+# Electricity Billing System
 
 A Java-based desktop application to manage electricity billing for customers using a graphical interface and a MySQL database backend.
 
-## 📋 Features
+##  Features
 
 - User-friendly GUI interface
 - Add, view, and manage customer and billing data
@@ -11,15 +11,18 @@ A Java-based desktop application to manage electricity billing for customers usi
 - ResultSet to TableModel conversion using `rs2xml.jar`
 - Built with Apache Ant and NetBeans support
 
+##  Author
+Rishabh Mishra
+Mishra.rishabh11@gmail.com
 
-## 🛠️ Prerequisites
+##  Prerequisites
 
 - Java JDK 8 or later
 - Apache Ant
 - MySQL Server
 - NetBeans IDE (optional but recommended)
 
-## 🚀 Getting Started
+##  Getting Started
 
 1. **Clone the repository**:
    ```bash
